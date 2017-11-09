@@ -42,3 +42,4 @@ Servers
 *.mvn
 *.properties
 .metadata
+.recommenders/
